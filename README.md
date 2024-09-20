@@ -17,3 +17,8 @@ If we list all the natural numbers below 10 that are multiples of 3 or 5, we get
     3. Brief introduction (who are you, why are you here, anything you’re specifically hoping to get out of the course)
 
 6. Add a link to [the official Python website] (https://www.python.org/)
+
+![Screenshot on installing Python packages](/Users/nhungnguyen/asdf/code/ds-217-02-git-nhungnguyenatheartylab/screenshot.png)
+
+![Meme I like] (https://www.codeitbro.in/python-memes/python-is-easy-to-learn/)
+
