@@ -1,4 +1,4 @@
-# **new_repository1**
+# **README: new_repository1**
 My name is Zhengwei Zhang. My GitHub username is ZhangZwaa.
 
 # For the problem in assignment 1, the answer is below:
